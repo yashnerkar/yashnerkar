@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm yash</h1>
 <h3 align="center">A MERN stack developer from India</h3>
-<a href="https://app.daily.dev/Madmax45"><img src="https://api.daily.dev/devcards/dde31d9af0614227974de5076c7d903e.png?r=24y" width="400" alt="yash's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/Madmax45"><img src="https://api.daily.dev/devcards/dde31d9af0614227974de5076c7d903e.png?r=24y" width="400" alt="yash's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-png&label=Profile%20views&color=0e75b6&style=flat" alt="yash-png" /> </p>
 
