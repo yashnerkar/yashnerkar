@@ -10,9 +10,9 @@
 
 - 🔭 Portfolio : <a href="https://yashnerkar.github.io">yashnerkar.github.io</a>
 
-- 🌱 I’m currently learning **Docker,Blockchain.**
+- 🌱 I’m currently learning **Redis,Kafka**
 
-- 💬 Ask me about **React,NodeJS,Mongodb,HTML,CSS,Javascript,Express,**
+- 💬 Ask me about **React,NodeJS,Mongodb,HTML,CSS,Javascript,Express,FastAPI,Nextjs,Redis,S3,Postgresql,Supabase,Typescript,web-sockets,Tailwindcss,Firebase,**
 
 - 📫 How to reach me **yashnerkar512@gmail.com**
 
