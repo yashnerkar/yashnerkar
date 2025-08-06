@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashnerkar81" target="blank"><img src="https://img.shields.io/twitter/follow/yashnerkar81?logo=twitter&style=for-the-badge" alt="yashnerkar81" /></a> </p>
 
-- 🔭 Portfolio : <a href="https://yashnerkar.github.io">yashnerkar.github.io</a>
+- 🔭 Portfolio : <a href="https://yashnerkar.dev">yashnerkar.dev</a>
 
 - 🌱 I’m currently learning **Redis,Kafka**
 
