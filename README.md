@@ -1,42 +1,117 @@
-<h1 align="center">Hi 👋, I'm Yash, A full stack developer!</h1>
+<div align="center">
 
-<a href="https://app.daily.dev/madmax45"><img src="https://api.daily.dev/devcards/v2/pjYLFBhwf.png?type=wide&r=7j5" width="652" alt="yash's Dev Card"/></a>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · yashnerkar</sub></p>
+<h1>Yash Nerkar</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Let's code together || 
+Full stack developer ||
+@Hacktoberfest '21 &amp; '22</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Mumbai · Building at Brandlabs</sub></p>
+<p><a href="https://github.com/yashnerkar">GitHub</a> &nbsp;·&nbsp; <a href="https://yashnerkar.dev">Website</a> &nbsp;·&nbsp; <a href="https://x.com/yashnerkar81">X</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/65919365?u=890248dda57060487d96140a8efe7bd710aa9924&amp;v=4" width="180" alt="Yash Nerkar GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashnerkar&label=Profile%20views&color=0e75b6&style=flat" alt="yashnerkar" /> </p>
+<h2>What teams can evaluate quickly</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashnerkar" alt="yashnerkar" /></a> </p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · CSS · JavaScript · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>42 repositories · 30 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>494 contributions · 176 active days</p></td>
+</tr>
+</table>
 
-<p align="left"> <a href="https://twitter.com/yashnerkar81" target="blank"><img src="https://img.shields.io/twitter/follow/yashnerkar81?logo=twitter&style=for-the-badge" alt="yashnerkar81" /></a> </p>
+<p><sub>Let's code together || 
+Full stack developer ||
+@Hacktoberfest '21 &amp; '22</sub></p>
 
-- 🔭 Portfolio : <a href="https://yashnerkar.dev">yashnerkar.dev</a>
+<h2>Proof at a glance</h2>
 
-- 🌱 I’m currently learning **Redis,Kafka**
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>42</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>30</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>494</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>60</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-- 💬 Ask me about **React,NodeJS,Mongodb,HTML,CSS,Javascript,Express,FastAPI,Nextjs,Redis,S3,Postgresql,Supabase,Typescript,web-sockets,Tailwindcss,Firebase,**
-
-- 📫 How to reach me **yashnerkar512@gmail.com**
-
-- ⚡ Fun fact **I am an Owl!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/madmax45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="madmax45" height="30" width="40" /></a>
-<a href="https://twitter.com/yashnerkar81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashnerkar81" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash-n12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-n12" height="30" width="40" /></a>
-<a href="https://instagram.com/yashhnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashhnn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/weekendplayer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="weekendplayer" height="30" width="40" /></a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yashnerkar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65919365%3Fu%3D890248dda57060487d96140a8efe7bd710aa9924%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=yashnerkar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65919365%3Fu%3D890248dda57060487d96140a8efe7bd710aa9924%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Yash Nerkar GitHub proof metrics" />
+</picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="nor
-eferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<h2>Selected work</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnerkar&show_icons=true&locale=en&layout=compact" alt="yashnerkar" /></p>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yashnerkar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65919365%3Fu%3D890248dda57060487d96140a8efe7bd710aa9924%26v%3D4&repos=yashnerkar%2Fportfolio_template&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=yashnerkar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65919365%3Fu%3D890248dda57060487d96140a8efe7bd710aa9924%26v%3D4&repos=yashnerkar%2Fportfolio_template&v=recruiter-projects-1&mode=dark" width="100%" alt="Yash Nerkar selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/yashnerkar/portfolio_template">portfolio_template</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/yashnerkar/portfolio_template">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashnerkar&show_icons=true&locale=en" alt="yashnerkar" /></p>
+<table width="100%">
+<tr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnerkar&" alt="yashnerkar" /></p>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=yashnerkar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65919365%3Fu%3D890248dda57060487d96140a8efe7bd710aa9924%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=yashnerkar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65919365%3Fu%3D890248dda57060487d96140a8efe7bd710aa9924%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Yash Nerkar technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>56% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>33% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>EJS</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yashnerkar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65919365%3Fu%3D890248dda57060487d96140a8efe7bd710aa9924%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=yashnerkar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65919365%3Fu%3D890248dda57060487d96140a8efe7bd710aa9924%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Yash Nerkar contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/yashnerkar">GitHub</a><br /><a href="https://yashnerkar.dev">Website</a><br /><a href="https://x.com/yashnerkar81">X</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Yash Nerkar · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
